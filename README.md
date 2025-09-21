@@ -240,7 +240,3 @@ pillow>=9.5.0
 6. **Place cones**: 5m and 10m from camera
 7. **Run**: `python detection_system.py`
 
-=======
-# absolute_distance
-Vehicle detection system with distance monitoring
->>>>>>> dc852c90dde287d3d66485c3ec9d7a5e5356cb03
