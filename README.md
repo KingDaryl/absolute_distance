@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Vehicle Detection System
+# Absolute_Distance_Estimation
 
 A real-time vehicle detection and distance monitoring system using computer vision. Detects vehicles and provides three-tier alerts (RED/YELLOW/GREEN) based on proximity using cone-based distance calibration.
 
