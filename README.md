@@ -181,15 +181,6 @@ vehicle_detection_system/
 │   └── carla_opendrive_world.py
 ```
 
-3. **Add CARLA Python API** to environment:
-```bash
-# Windows
-set PYTHONPATH=%PYTHONPATH%;C:\CARLA_0.9.15\WindowsNoEditor\PythonAPI\carla\dist\carla-0.9.13-py3.7-win-amd64.egg
-
-# Linux  
-export PYTHONPATH=$PYTHONPATH:/path/to/carla/PythonAPI/carla/dist/carla-0.9.13-py3.7-linux-x86_64.egg
-```
-
 ### Running CARLA Mode
 
 **Terminal 1**: Start CARLA server
