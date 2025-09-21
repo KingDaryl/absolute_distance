@@ -5,6 +5,7 @@ A real-time vehicle detection and distance monitoring system using computer visi
 ## Project Overview
 
 **Main Project**: Pure computer vision system for camera/video input
+
 **Optional**: CARLA simulation integration for testing
 
 ## Installation & Setup
